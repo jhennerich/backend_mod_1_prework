@@ -2,6 +2,8 @@
 
 1. How did the SuperLearner Article resonate with you? What from this list do you already do? Want to start doing or do more of? Is there anything not on this list, that you would add to it?
 
++  I agree that all 6 habits listed in the article are important.  It has been my experience that teaching what you have learned is the most effective for retention.  A habit I could use to develop is eating better.
+
 2. How would you print the string `"Hello World!"` to the terminal?
 ```
 puts "Hello World!"
