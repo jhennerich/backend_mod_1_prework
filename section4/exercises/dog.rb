@@ -19,6 +19,15 @@ class Dog
   def eat
     @hungry = false
   end
+
+  def play
+    @hungry = true
+  end
+
+  def fetch
+	puts "#{@name} doesn't want to play"
+  end
+	
 end
 
 fido = Dog.new("Bernese", "Fido", 4)
@@ -28,3 +37,6 @@ p fido.age
 p fido.hungry
 fido.eat
 p fido.hungry
+fido.play
+puts "After fido plays he is hungry: #{fido.hungry}"
+fido.fetch
