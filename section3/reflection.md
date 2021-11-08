@@ -1,7 +1,11 @@
 ## Section 3 Reflection
 
 1. What are two points from the Growth Mindset article and/or video that either resonated with you, or were brand new to you?
- 
+
+ Some points from the podcast that resonated with me are:
+ + Track your own progress, don't compare yourself to others.  As long as you keep going and make progress that is what is important.
+ + Don't panic if you don't know something, use your resources to learn and problem solve.
+ + You can be fixed mindset in some parts of your life and growth mindset in others.
 
 1. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
 
