@@ -8,6 +8,7 @@
  + You can be fixed mindset in some parts of your life and growth mindset in others.
 
 1. In which ways do you currently demonstrate a Growth Mindset? In which ways do you _not_?
+ To me Growth Mindset is similar or even the same as the saying "You can do anything if you put your mind to it".  Applying and being accepted into the Turing program is an example for me.  I find comfort in routines and planning.  This fits more into the fixed mindset.  
 
 1. What is a Hash, and how is it different from an Array?
 
