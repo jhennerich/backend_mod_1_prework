@@ -38,7 +38,7 @@ end
 
 3. How do you add multiple conditions to an if statement?
 
-+ Use if, elsif , else statements
++ You can use the and operator `&&` and the or operator `||`
 
 1. Provide an example of the Ruby syntax for an if/elsif/else statement:
 
