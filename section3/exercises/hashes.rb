@@ -39,12 +39,13 @@ puts zoo
 # Declare a variable that stores hash. Each key should be an attribute of an email and each
 # value should be some appropriate value for that key. Work to have at least 5 key-value pairs.
 
-email = {:from_email_adress => "John.Hennerich@gmail.com",
-         :to_email_address =>  "alkirewins@gmail.com",
-         :cc_email_address => nil,
-         :subject => "Test email",
-         :body => "This is the body of the email message"
-         }
+email = {
+	"from_email_address" => "John.Hennerich@gmail.com",
+        "to_email_address" => "alkirewins@gmail.com",
+        "cc_email_address" => nil,
+        "subject" => "Test email",
+        "body" => "This is the body of the email message"
+}         
 
 
 # Write code that prints your email hash to the terminal.
